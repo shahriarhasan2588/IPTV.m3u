@@ -1,14 +1,8 @@
-Fox Sports 2
-https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1782658587&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=1c9cbe43774389606103dcaaa50d4dff
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/04a56bc13c4c486ad4a4d82a1e00fd73" group-title="Sports",Bein Sports
-https://tvsen6.aynaott.com/beinsports/index.m3u8?e=1782658587&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=2bf0d18622bbce59cf535f230c29e297
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0b6e5ad3267e5a5897abbe8f3be7b78a" group-title="Sports",BT Sports 2
-https://tvsen6.aynaott.com/btSport2/index.m3u8?e=1782658587&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=da8bc86218ada4f018f63a076965f7ba
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a3d1a4112bc7c6ee337871b58449542c" group-title="Sports",TNT Sport 1
-hls://103.205.133.70/TntSports1HD/index.m3u8
 #EXTINF:-1 tvg-name="T-Sports [3]" group-title="SPORTS",T-Sports [3]
 http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" group-title="FIFA World Cup 2026",Somoy TV
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/da4282cd107cc3d40efadae488b187e5" group-title="Sports",Fox Sports 2
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1782658587&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=1c9cbe43774389606103dcaaa50d4dff
